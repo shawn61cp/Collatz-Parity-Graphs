@@ -1,6 +1,6 @@
 # Collatz Parity Graphs
 
-These are some parity graphings of Collatz sets created in Jupyterhub Python.
+These are some parity graphings of Collatz sets created in Jupyter Notebook Python.
 
 
 ![Graph 1](https://github.com/shawn61cp/Collatz-Parity-Graphs/blob/main/graph1.png)
