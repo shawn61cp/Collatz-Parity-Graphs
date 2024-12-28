@@ -16,3 +16,6 @@ These are some parity graphings of Collatz sets created in Jupyter Notebook Pyth
 
 <br><em>Spun Cotton Candy</em><br>
 ![Graph 6](https://github.com/shawn61cp/Collatz-Parity-Graphs/blob/main/graph6.png)
+
+<br><em>Reminiscent of the Andromeda Strain</em><br>
+![Graph 7](https://github.com/shawn61cp/Collatz-Parity-Graphs/blob/main/graph7.png)
