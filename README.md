@@ -10,3 +10,9 @@ These are some parity graphings of Collatz sets created in Jupyter Notebook Pyth
 
 <br><em>Featherduster</em><br>
 ![Graph 4](https://github.com/shawn61cp/Collatz-Parity-Graphs/blob/main/graph4.png)
+
+<br><em>Skein of Yarn</em><br>
+![Graph 5](https://github.com/shawn61cp/Collatz-Parity-Graphs/blob/main/graph5.png)
+
+<br><em>Spun Cotton Candy</em><br>
+![Graph 6](https://github.com/shawn61cp/Collatz-Parity-Graphs/blob/main/graph6.png)
